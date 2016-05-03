@@ -856,7 +856,7 @@ def getDomainFileNames():
 
     else: 
         if getConstant('segmentation')==True:
-            mypath = 'crawling/1a3combined14MarPM190828/'
+            mypath = 'crawling/1a6/'
             if getConstant('17')==True:
                 mypath = 'crawling/1a4/'
         else:
