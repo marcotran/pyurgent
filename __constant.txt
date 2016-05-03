@@ -1,0 +1,25 @@
+{ 
+            'natural distribution': False,
+            'VN':False,
+             'bigram':True,
+             '17':False,
+             'segmentation':False,
+             'keep stop words':True,
+		'bigram naive bayes':True,
+             
+             'time limit':True,
+            'absolute F': False,
+             'shuffle' : False,             
+             'one domain': False,
+             'update X hard': True,
+             'write shuffle':False,          
+             'no empty string':True,             
+             'neutral':False,
+             'consistent distribution':True,
+             'lower':True,
+             'tab chart':False,
+             'micro average':False,
+             
+             'punctuation': False,             
+             'mini test': False
+}
